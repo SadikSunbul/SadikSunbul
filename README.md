@@ -1,7 +1,7 @@
     
-    <h1 align="center">Hi 👋, I'm Sadık Sünbül</h1>
+<h1 align="center"> Hi 👋, I'm Sadık Sünbül </h1>
 <h3 align="center">A passionate Back-End developer from Turkey</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" >
 - 🌱 I’m currently learning **Entity Framework**
 
 - 💬 Ask me about **Computer Engineering Student**
