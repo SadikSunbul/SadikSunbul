@@ -1,8 +1,12 @@
-<h1 align="center">Merhaba 👋 ,Ben Sadık Sünbül</h1>
-    <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<h2 align="center">Türkiye'den tutkulu bir Back-End geliştiricisi</h2>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=700&pause=100&color=FFFFFF&center=do%C4%9Fru&vCenter=do%C4%9Fru&multiline=true&repeat=do%C4%9Fru&height=40&lines=Merhaba+%F0%9F%91%8B+%2CBen+Sad%C4%B1k+S%C3%BCnb%C3%BCl" alt="Typing SVG" /></a>
+</h1>
+    <p align="center">
+        <a  href="https://www.animatedimages.org/cat-lines-562.htm"><img  src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" border="0" alt="animated-line-image-0170" /></a>
+ </p>
+
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=700&pause=100&color=FFFFFF&center=do%C4%9Fru&vCenter=do%C4%9Fru&multiline=true&repeat=do%C4%9Fru&width=800&height=180&lines=Merhaba%2C+Ben+Sad%C4%B1k+S%C3%BCnb%C3%BCl!+Yaz%C4%B1l%C4%B1m+geli%C5%9Ftirme+konusunda+tutkulu+biriyim.+;%C3%87al%C4%B1%C5%9Fmalar%C4%B1m%C4%B1n+%C3%A7o%C4%9Funu+C%23%2C+.NET+Core%2C+Entity+Framework+Core+ve+T-SQL+gibi+;teknolojilerle+ger%C3%A7ekle%C5%9Ftiriyorum.+Mobil+uygulama+geli%C5%9Ftirme+konusunda+da;hesab%C4%B1mda%2C+a%C3%A7%C4%B1k+kaynak+kodlu+projelerimi+ve+%C3%B6rnek+%C3%A7al%C4%B1%C5%9Fmalar%C4%B1m%C4%B1+payla%C5%9F%C4%B1yorum.+;Ayr%C4%B1ca+burada+bulunan+projelerimde+kullan%C4%B1lan+teknolojiler+ve+kodlama+teknikleri;hakk%C4%B1nda+payla%C5%9F%C4%B1mlarda+bulunuyorum.+E%C4%9Fer+benimle+bir+proje+geli%C5%9Ftirmek+veya;i%C5%9Fbirli%C4%9Fi+yapmak+isterseniz%2C+l%C3%BCtfen+benimle+ileti%C5%9Fime+ge%C3%A7mekten+%C3%A7ekinmeyin" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=700&pause=100&color=FFFFFF&center=do%C4%9Fru&vCenter=do%C4%9Fru&multiline=true&repeat=do%C4%9Fru&width=800&height=210&lines=Merhaba%2C+Ben+Sad%C4%B1k+S%C3%BCnb%C3%BCl!+Yaz%C4%B1l%C4%B1m+geli%C5%9Ftirme+konusunda+tutkulu+biriyim.+;%C3%87al%C4%B1%C5%9Fmalar%C4%B1m%C4%B1n+%C3%A7o%C4%9Funu+C%23%2C+.NET+Core%2C+Entity+Framework+Core+ve+T-SQL+gibi+;teknolojilerle+ger%C3%A7ekle%C5%9Ftiriyorum.+Mobil+uygulama+geli%C5%9Ftirme+konusunda+da;hesab%C4%B1mda%2C+a%C3%A7%C4%B1k+kaynak+kodlu+projelerimi+ve+%C3%B6rnek+%C3%A7al%C4%B1%C5%9Fmalar%C4%B1m%C4%B1+payla%C5%9F%C4%B1yorum.+;Ayr%C4%B1ca+burada+bulunan+projelerimde+kullan%C4%B1lan+teknolojiler+ve+kodlama+teknikleri;hakk%C4%B1nda+payla%C5%9F%C4%B1mlarda+bulunuyorum.+E%C4%9Fer+benimle+bir+proje+geli%C5%9Ftirmek+veya;i%C5%9Fbirli%C4%9Fi+yapmak+isterseniz%2C+l%C3%BCtfen+benimle+ileti%C5%9Fime+ge%C3%A7mekten+%C3%A7ekinmeyin;T%C3%BCrkiye'den+tutkulu+bir+Back-End+geli%C5%9Ftiricisi" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
