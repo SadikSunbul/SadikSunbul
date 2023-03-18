@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=700&pause=100&color=FFFFFF&center=do%C4%9Fru&vCenter=do%C4%9Fru&multiline=true&repeat=do%C4%9Fru&height=40&lines=Merhaba+%F0%9F%91%8B+%2CBen+Sad%C4%B1k+S%C3%BCnb%C3%BCl" alt="Typing SVG" /></a>
 </h1>
     <p align="center">
-        <a  href="https://www.animatedimages.org/cat-lines-562.htm"><img  src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" border="0" alt="animated-line-image-0170" /></a>
+        <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0019.gif" border="0" alt="animated-line-image-0019" /></a>
  </p>
 
 <p align="center">
