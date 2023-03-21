@@ -15,10 +15,10 @@
         </p>
         
   <p align="center"> 
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiksunbul&show_icons=true&locale=en&theme=dark" alt="sadiksunbul" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadikSunbul&show_icons=true&locale=en&theme=dark" alt="sadiksunbul" />
   </p>
   <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiksunbul&show_icons=true&locale=en&layout=compact&theme=dark" alt="sadiksunbul" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SadikSunbul&show_icons=true&locale=en&layout=compact&theme=dark" alt="sadiksunbul" />
          </p>
         <h3 align="center">Connect with me:</h3>
         <p align="center">
