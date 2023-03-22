@@ -24,7 +24,11 @@
         <p align="center">
         <a href="https://www.linkedin.com/in/sad%C4%B1k-s%C3%BCnb%C3%BCl-736873258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadık sünbül" height="30" width="40" /></a>
         <a href="https://discord.gg/Sadık Sünbül#3106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sadık Sünbül#3106" height="30" width="40" /></a>
+        <a href="mailto:jsjsqwe12@gmail.com" target="blank">
+        <img src="https://img.icons8.com/fluency/256/mail.png" img align="center" alt="e-mail" height="40" width="40">
+      </a>
         </p>
+        
         
    <h3 align="center">Languages and Tools:</h3>
         <p align="center"> 
