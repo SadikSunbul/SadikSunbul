@@ -27,7 +27,7 @@
         <a href="mailto:jsjsqwe12@gmail.com" target="blank">
         <img src="https://img.icons8.com/fluency/256/mail.png" img align="center" alt="e-mail" height="40" width="40">
       </a>
-        </p>
+       </p>
         
         
    <h3 align="center">Languages and Tools:</h3>
