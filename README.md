@@ -10,9 +10,7 @@
        </p>
        
    
-   <p align="center">
-            <img src="https://s2.gifyu.com/images/standard616a55cae1bab967.gif"/>
-        </p>
+  
         
   <p align="center"> 
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadikSunbul&show_icons=true&locale=en&theme=dark" alt="SadikSunbul" />
