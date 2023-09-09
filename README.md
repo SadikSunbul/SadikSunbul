@@ -19,7 +19,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=SadikSunbul&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -27,11 +27,8 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadikSunbul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<div align="center"> 
-    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=100&color=804EC5&background=FFFFFF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&repeat=do%C4%9Fru&width=300&height=35&lines=%E2%97%8F+C%23+-+.NET;%E2%97%8F+Asp.NET+Core+(Web+Api);%E2%97%8F+Entity+Freamework+Core;%E2%97%8F+SqlServer;%E2%97%8F+OOP;%E2%97%8F+Creational+Design+Pattern;%E2%97%8F+CQS+%26+CQRS+;%E2%97%8F+SOLID+;+%E2%97%8F+LINQ+Web+Service;%E2%97%8F+RabbitMQ;+%E2%97%8F+Redis;+%E2%97%8F+gRPC" alt="Typing SVG" /></a>
 
-</div>
-
+<hr/>
 
 <h3 align="center">Connect with me:</h3>
         <p align="center">
@@ -41,7 +38,6 @@
         <img src="https://img.icons8.com/fluency/256/mail.png" img align="center" alt="e-mail" height="40" width="40">
       </a>
        </p>
-
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 
 <div align="center">
