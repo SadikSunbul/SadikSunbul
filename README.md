@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rabbitmq,redis,postman,c,azure,docker,git,github,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rabbitmq,redis,postman,c,azure,docker,git,github" /><br>
 </div>
 
 <hr/>
