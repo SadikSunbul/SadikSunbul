@@ -9,7 +9,7 @@
     <ul align="left">
         <li>I have knowledge in subjects such as C#, Asp.NET Core (Web API), Entity Framework Core, SqlServer, and OOP, and you can find sample projects, libraries, and source codes related to these technologies on my GitHub account.</li>
         <li>I have experience in software design patterns such as Creational Design Patterns (Singleton, Multiton, Factory Method, Abstract Factory, Prototype, Object Pool, Builder) and effectively apply these patterns in my projects.</li>
-        <li>I am proficient in software development topics like CQS & CQRS, SOLID principles, and LINQ, and I develop my projects according to these principles.</li>
+        <li>I am proficient in software development topics like Onion Architecture , CQS & CQRS, SOLID principles, and LINQ, and I develop my projects according to these principles.</li>
         <li>Additionally, I am interested in technologies like RabbitMQ, Redis, gRPC, MsSql, and T-Sql and work in these areas as well.</li>
     </ul>
     <p>My GitHub account contains projects I have developed using these technologies. I create new projects to improve myself and regularly update my existing projects.</p>
