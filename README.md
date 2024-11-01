@@ -5,16 +5,23 @@
 
 <hr/>
 <div align="center">
-    <p>Hello, I am a computer engineering student, and I share my passion for software development on GitHub. Here is some more information about me:</p>
+    <p>Hello, I am a passionate software developer with a deep curiosity for computer science and a relentless desire for self-improvement. Here is some more information about my technical expertise:</p>
     <ul align="left">
-        <li>I have knowledge in subjects such as C#, Asp.NET Core (Web API), Entity Framework Core, SqlServer, and OOP, and you can find sample projects, libraries, and source codes related to these technologies on my GitHub account.</li>
-        <li>I have experience in software design patterns such as Creational Design Patterns (Singleton, Multiton, Factory Method, Abstract Factory, Prototype, Object Pool, Builder) and effectively apply these patterns in my projects.</li>
-        <li>I am proficient in software development topics like Onion Architecture , CQS & CQRS, SOLID principles, and LINQ, and I develop my projects according to these principles.</li>
-        <li>Additionally, I am interested in technologies like RabbitMQ, Redis, gRPC, MsSql, and T-Sql and work in these areas as well.</li>
+        <li><strong>Languages & Frameworks:</strong> C#, ASP.NET Core (Web API), Go (Golang)</li>
+        <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, GORM</li>
+        <li><strong>Architectural Patterns:</strong> Domain-Driven Design (DDD), Onion Architecture, OOP, CQS & CQRS</li>
+        <li><strong>Design Patterns:</strong> Creational Design Patterns (Singleton, Multiton, Factory Method, Abstract Factory, Prototype, Object Pool, Builder)</li>
+        <li><strong>APIs & Services:</strong> RESTful APIs, gRPC, Web Services</li>
+        <li><strong>Caching & Messaging:</strong> Redis, RabbitMQ</li>
+        <li><strong>Testing & Monitoring:</strong> Unit Testing, Logging and Monitoring Solutions</li>
+        <li><strong>Security & Authentication:</strong> OAuth 2.0, JWT</li>
+        <li><strong>Integration:</strong> Payment Gateways (PayPal, Adyen, Apple Pay, Google Pay), Google Maps API, Email Notification Systems</li>
+        <li><strong>DevOps:</strong> Docker, SOLID principles, LINQ (Language Integrated Query)</li>
     </ul>
     <p>My GitHub account contains projects I have developed using these technologies. I create new projects to improve myself and regularly update my existing projects.</p>
     <p>My goal is to further enhance my experience in software development and apply what I have learned. If you are interested in any of the projects on my GitHub account, please don't hesitate to get in touch with me. I'm always open to new projects and ideas!</p>
 </div>
+
 
 
 <hr/>
