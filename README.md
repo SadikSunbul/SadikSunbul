@@ -7,7 +7,7 @@
 <div align="center">
     <p>Hello, I am a passionate software developer with a deep curiosity for computer science and a relentless desire for self-improvement. Here is some more information about my technical expertise:</p>
     <ul align="left">
-        <li><strong>Languages & Frameworks:</strong> C#, ASP.NET Core (Web API), Go (Golang)</li>
+        <li><strong>Languages & Frameworks:</strong> Go (Golang), C#, Fiber, Gin-Gonic, ASP.NET Core (Web API) </li>
         <li><strong>Database Technologies:</strong> SQL Server, PostgreSQL, Entity Framework Core, GORM</li>
         <li><strong>Architectural Patterns:</strong> Domain-Driven Design (DDD), Onion Architecture, OOP, CQS & CQRS</li>
         <li><strong>Design Patterns:</strong> Creational Design Patterns (Singleton, Multiton, Factory Method, Abstract Factory, Prototype, Object Pool, Builder)</li>
