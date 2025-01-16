@@ -16,7 +16,7 @@
         <li><strong>Testing & Monitoring:</strong> Unit Testing, Logging and Monitoring Solutions</li>
         <li><strong>Security & Authentication:</strong> OAuth 2.0, JWT</li>
         <li><strong>Integration:</strong> Payment Gateways (PayPal, Adyen, Apple Pay, Google Pay), Google Maps API, Email Notification Systems</li>
-        <li><strong>DevOps:</strong> Docker, SOLID principles, LINQ (Language Integrated Query)</li>
+        <li><strong>DevOps:</strong> Docker, Ngrok, Cloudflare Tunnel</li>
     </ul>
     <p>My GitHub account contains projects I have developed using these technologies. I create new projects to improve myself and regularly update my existing projects.</p>
     <p>My goal is to further enhance my experience in software development and apply what I have learned. If you are interested in any of the projects on my GitHub account, please don't hesitate to get in touch with me. I'm always open to new projects and ideas!</p>
@@ -48,7 +48,7 @@
 <h2 align="center">⚒️ Languages and Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,cs,solidity,c,dotnet,rabbitmq,redis,elasticsearch,docker,kubernetes,mongodb,mysql,postgres,postman,gcp,githubactions,git,github,visualstudio,vscode,md,supabase,netlify,bash,discord,linkedin,gmail" /><br>
+    <img src="https://skillicons.dev/icons?i=go,cs,solidity,c,dotnet,rabbitmq,redis,cloudflare,elasticsearch,docker,kubernetes,mongodb,mysql,postgres,postman,gcp,netlify,githubactions,git,github,visualstudio,vscode,md,supabase,netlify,bash,discord,linkedin,gmail%22" /><br>
 </div>
 
 <hr/>
