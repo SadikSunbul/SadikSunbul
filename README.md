@@ -1,54 +1,61 @@
-
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CACF7&center=do%C4%9Fru&vCenter=do%C4%9Fru&repeat=do%C4%9Fru&width=345&height=35&lines=Hello!+%F0%9F%91%8B+I'm+Sad%C4%B1k+S%C3%BCnb%C3%BCl!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CACF7&center=true&vCenter=true&repeat=true&width=435&height=35&lines=Hello!+%F0%9F%91%8B+I'm+Sad%C4%B1k+S%C3%BCnb%C3%BCl;Backend+Developer;Software+Engineer" alt="Typing SVG" />
+    </a>
 </h1>
 
-<hr/>
 <div align="center">
-    <p>Hello, I am a passionate software developer with a deep curiosity for computer science and a relentless desire for self-improvement. Here is some more information about my technical expertise:</p>
-    <ul align="left">
-        <li><strong>Languages & Frameworks:</strong> Go (Golang), C#, Fiber, Gin-Gonic, ASP.NET Core (Web API) </li>
-        <li><strong>Database Technologies:</strong> MongoDB, SQL Server, PostgreSQL, Entity Framework Core, GORM</li>
-        <li><strong>Architectural Patterns:</strong> Domain-Driven Design (DDD), Onion Architecture, OOP, CQS & CQRS</li>
-        <li><strong>Design Patterns:</strong> Creational Design Patterns (Singleton, Multiton, Factory Method, Abstract Factory, Prototype, Object Pool, Builder)</li>
-        <li><strong>APIs & Services:</strong> RESTful APIs, gRPC, Web Services</li>
-        <li><strong>Caching & Messaging:</strong> Redis, RabbitMQ</li>
-        <li><strong>Testing & Monitoring:</strong> Unit Testing, Logging and Monitoring Solutions</li>
-        <li><strong>Security & Authentication:</strong> OAuth 2.0, JWT</li>
-        <li><strong>Integration:</strong> Payment Gateways (PayPal, Adyen, Apple Pay, Google Pay), Google Maps API, Email Notification Systems</li>
-        <li><strong>DevOps:</strong> Docker, Ngrok, Cloudflare Tunnel</li>
-    </ul>
-    <p>My GitHub account contains projects I have developed using these technologies. I create new projects to improve myself and regularly update my existing projects.</p>
-    <p>My goal is to further enhance my experience in software development and apply what I have learned. If you are interested in any of the projects on my GitHub account, please don't hesitate to get in touch with me. I'm always open to new projects and ideas!</p>
+    <a href="https://sadiksunbul.vercel.app/" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Website-teal?style=for-the-badge&logo=browser&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sadiksunbul/" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://discord.gg/Sadık Sünbül#3106" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="mailto:jsjsqwe12@gmail.com">
+        <img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/>
+    </a>
+    <a href="https://hub.docker.com/u/sadik10" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/-DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    </a>
 </div>
 
 
-
-<hr/>
-
-<h2 align="center">📈 Stats </h2>
-
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=SadikSunbul&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SadikSunbul&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadikSunbul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<hr/>
-
-<h2 align="center">🔗 Connect With Me </h2>
-        <p align="center">
-        <a href="https://www.linkedin.com/in/sad%C4%B1k-s%C3%BCnb%C3%BCl-736873258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadık sünbül" height="30" width="40" /></a>
-        <a href="https://discord.gg/Sadık Sünbül#3106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sadık Sünbül#3106" height="30" width="40" /></a>
-        <a href="mailto:jsjsqwe12@gmail.com" target="blank">
-        <img src="https://img.icons8.com/fluency/256/mail.png" img align="center" alt="e-mail" height="40" width="40">
-      </a>
-       </p>
-<h2 align="center">⚒️ Languages and Tools </h2>
+<br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,cs,solidity,c,dotnet,rabbitmq,redis,cloudflare,elasticsearch,docker,kubernetes,mongodb,mysql,postgres,postman,gcp,netlify,githubactions,git,github,visualstudio,vscode,md,supabase,netlify,bash,discord,linkedin,gmail%22" /><br>
+    <h2>🛠️ Tech Stack</h2>
 </div>
 
-<hr/>
+<div align="center">
+    
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=👨‍💻 Programming Languages & Frameworks&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=go,Go,00ADD8;dotnet,.NET,512BD4;solidity,Solidity,363636&line2=c," alt="Languages" />
+    
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=🛢 Databases & Messaging&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=mongodb,MongoDB,47A248;mysql,MySQL,4479A1;postgresql,PostgreSQL,336791&line2=redis,Redis,DC382D;rabbitmq,RabbitMQ,FF6600;elastic,Elasticsearch,005571" alt="Databases" />
+    
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=☁️ DevOps & Cloud&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=docker,Docker,2496ED;kubernetes,Kubernetes,326CE5;cloudflare,Cloudflare,F38020&line2=googlecloud,GCP,4285F4;github,Actions,2088FF" alt="DevOps" />
+    
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=🔧 Development Tools&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=git,Git,F05032;github,GitHub,181717;visualstudio,Visual Studio,5C2D91&line2=vscode,VS Code,007ACC;postman,Postman,FF6C37" alt="Tools" />
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+<div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SadikSunbul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SadikSunbul&theme=tokyonight&hide_border=true"/>
+    <br/>
+   
+</div>
+
+<br/>
+<div align="center">
+    <h2>📊 Contribution Graph</h2>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadikSunbul&theme=tokyo-night&hide_border=true&radius=8" width="100%" alt="Contribution Graph">
+</div>
+
+<br/>
+
