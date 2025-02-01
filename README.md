@@ -31,7 +31,7 @@
 
 <div align="center">
     
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=350&title=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Programming%20Languages%20&%20Frameworks&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=go,Go,00ADD8;dotnet,.NET,512BD4;solidity,Solidity,363636&line2=c," alt="Languages" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=350&title=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Programming%20Languages%20&%20Frameworks&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=go,Go,00ADD8;dotnet,.NET,512BD4;solidity,Solidity,363636&line2=c,C,A8B9CC;" alt="Languages" />
     
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?width=350&title=%F0%9F%94%A7%20Development%20Tools&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=git,Git,F05032;github,GitHub,181717;visualstudio,Visual%20Studio,5C2D91&line2=vscode,VS%20Code,007ACC;postman,Postman,FF6C37" alt="Tools" />
     
