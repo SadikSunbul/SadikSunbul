@@ -31,14 +31,13 @@
 
 <div align="center">
     
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=450&title=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Programming%20Languages%20&%20Frameworks&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=go,Go,00ADD8;dotnet,.NET,512BD4;solidity,Solidity,363636&line2=c," alt="Languages" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=350&title=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Programming%20Languages%20&%20Frameworks&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=go,Go,00ADD8;dotnet,.NET,512BD4;solidity,Solidity,363636&line2=c," alt="Languages" />
     
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=450&title=%F0%9F%9B%A2%20Databases%20&%20Messaging&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=mongodb,MongoDB,47A248;mysql,MySQL,4479A1;postgresql,PostgreSQL,336791&line2=redis,Redis,DC382D;rabbitmq,RabbitMQ,FF6600;elastic,Elasticsearch,005571" alt="Databases" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=350&title=%F0%9F%94%A7%20Development%20Tools&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=git,Git,F05032;github,GitHub,181717;visualstudio,Visual%20Studio,5C2D91&line2=vscode,VS%20Code,007ACC;postman,Postman,FF6C37" alt="Tools" />
     
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=450&title=%E2%98%81%EF%B8%8F%20DevOps%20&%20Cloud&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=docker,Docker,2496ED;kubernetes,Kubernetes,326CE5;cloudflare,Cloudflare,F38020&line2=googlecloud,GCP,4285F4;github,Actions,2088FF" alt="DevOps" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=350&title=%E2%98%81%EF%B8%8F%20DevOps%20&%20Cloud&align=center&titleAlign=center&lineCount=3&theme=tokyonight&line1=docker,Docker,2496ED;kubernetes,Kubernetes,326CE5&line2=cloudflare,Cloudflare,F38020;googlecloud,GCP,4285F4&line3=github,Actions,2088FF" alt="DevOps" />
     
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=450&title=%F0%9F%94%A7%20Development%20Tools&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=git,Git,F05032;github,GitHub,181717;visualstudio,Visual%20Studio,5C2D91&line2=vscode,VS%20Code,007ACC;postman,Postman,FF6C37" alt="Tools" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?width=350&title=%F0%9F%9B%A2%20Databases%20&%20Messaging&align=center&titleAlign=center&lineCount=3&theme=tokyonight&line1=mongodb,MongoDB,47A248;mysql,MySQL,4479A1&line2=postgresql,PostgreSQL,336791;redis,Redis,DC382D&line3=rabbitmq,RabbitMQ,FF6600;elastic,Elasticsearch,005571" alt="Databases" />
 </div>
 
 <br/>
