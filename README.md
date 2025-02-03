@@ -75,6 +75,15 @@
                 <br/>
                 <sub>🔥 PR: Document DragonflyDB support </sub>
             </td>
+            <td align="center">
+                <a href="https://github.com/gofiber/storage/pull/1565">
+                    <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="100px" alt="Fiber Logo"/>
+                    <br/>
+                    <sub><b>Go Fiber</b></sub>
+                </a>
+                <br/>
+                <sub>🔥 PR: Add LevelDB support</sub>
+            </td>
         </tr>
     </table>
 </div>
