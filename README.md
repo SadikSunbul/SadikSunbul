@@ -66,33 +66,46 @@
 <div align="center">
     <table>
         <tr>
-            <td align="center">
-                <a href="https://github.com/gofiber/storage/pull/1564">
-                    <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="100px" alt="Fiber Logo"/>
-                    <br/>
-                    <sub><b>Go Fiber</b></sub>
-                </a>
-                <br/>
-                <sub>🔥 PR: Document DragonflyDB support </sub>
+            <th>Logo</th>
+            <th>Project</th>
+            <th>Description</th>
+            <th>PR Link</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="30px" alt="Fiber Logo"/>
             </td>
-            <td align="center">
-                <a href="https://github.com/gofiber/storage/pull/1565">
-                    <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="100px" alt="Fiber Logo"/>
-                    <br/>
-                    <sub><b>Go Fiber</b></sub>
+            <td>
+                <a href="https://github.com/gofiber/storage">
+                    <b>Go Fiber Storage</b>
                 </a>
-                <br/>
-                <sub>🔥 PR: Add LevelDB support</sub>
             </td>
-            <td align="center">
-                <a href="https://github.com/gofiber/recipes/pull/2797">
-                    <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="100px" alt="Fiber Logo"/>
-                    <br/>
-                    <sub><b>Go Fiber</b></sub>
+            <td>Added LevelDB support</td>
+            <td><a href="https://github.com/gofiber/storage/pull/1565">PR #1565</a></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="30px" alt="Fiber Logo"/>
+            </td>
+            <td>
+                <a href="https://github.com/gofiber/recipes">
+                    <b>Go Fiber Recipes</b>
                 </a>
-                <br/>
-                <sub>🔥 PR: Add Email Verification Recipe</sub>
             </td>
+            <td>Added email verification example</td>
+            <td><a href="https://github.com/gofiber/recipes/pull/2797">PR #2797</a></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="30px" alt="Fiber Logo"/>
+            </td>
+            <td>
+                <a href="https://github.com/gofiber/storage">
+                    <b>Go Fiber Storage</b>
+                </a>
+            </td>
+            <td>Added documentation for DragonflyDB support</td>
+            <td><a href="https://github.com/gofiber/storage/pull/1564">PR #1564</a></td>
         </tr>
     </table>
 </div>
