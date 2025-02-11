@@ -70,6 +70,7 @@
             <th>Project</th>
             <th>Description</th>
             <th>PR Link</th>
+            <th>Status</th>
         </tr>
         <tr>
             <td>
@@ -82,6 +83,7 @@
             </td>
             <td>Added LevelDB support</td>
             <td><a href="https://github.com/gofiber/storage/pull/1565">PR #1565</a></td>
+            <td>⏳ Pending</td>
         </tr>
         <tr>
             <td>
@@ -94,6 +96,7 @@
             </td>
             <td>Added email verification example</td>
             <td><a href="https://github.com/gofiber/recipes/pull/2797">PR #2797</a></td>
+            <td>✅ Merged</td>
         </tr>
         <tr>
             <td>
@@ -106,6 +109,7 @@
             </td>
             <td>Added documentation for DragonflyDB support</td>
             <td><a href="https://github.com/gofiber/storage/pull/1564">PR #1564</a></td>
+            <td>✅ Merged</td>
         </tr>
     </table>
 </div>
