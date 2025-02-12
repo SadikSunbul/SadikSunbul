@@ -94,7 +94,7 @@
                     <b>Go Fiber Recipes</b>
                 </a>
             </td>
-            <td>Added email verification example</td>
+            <td>Added Email Verification</td>
             <td><a href="https://github.com/gofiber/recipes/pull/2797">PR #2797</a></td>
             <td>✅ Merged</td>
         </tr>
