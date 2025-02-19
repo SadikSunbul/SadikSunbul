@@ -77,6 +77,19 @@
                 <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="30px" alt="Fiber Logo"/>
             </td>
             <td>
+                <a href="https://github.com/gofiber/fiber">
+                    <b>Go Fiber</b>
+                </a>
+            </td>
+            <td>Added automatic file field parsing in BodyParser</td>
+            <td><a href="https://github.com/gofiber/fiber/pull/3316">PR #3316</a></td>
+            <td>⏳ Pending</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="30px" alt="Fiber Logo"/>
+            </td>
+            <td>
                 <a href="https://github.com/gofiber/storage">
                     <b>Go Fiber Storage</b>
                 </a>
