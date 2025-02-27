@@ -14,7 +14,7 @@
     <a href="https://discord.gg/Sadık Sünbül#3106" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a href="mailto:jsjsqwe12@gmail.com">
+    <a href="mailto:ssunbul.dev@gmail.com">
         <img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/>
     </a>
     <a href="https://hub.docker.com/u/sadik10" target="_blank">
