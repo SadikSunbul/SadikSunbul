@@ -83,7 +83,7 @@
             </td>
             <td>Added LevelDB support</td>
             <td><a href="https://github.com/gofiber/storage/pull/1565">PR #1565</a></td>
-            <td>⏳ Pending</td>
+            <td>✅ Merged</td>
         </tr>
         <tr>
             <td>
