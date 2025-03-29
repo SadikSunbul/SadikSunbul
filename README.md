@@ -51,12 +51,7 @@
 </div>
 
 <br/>
-<div align="center">
-    <h2>📊 Contribution Graph</h2>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadikSunbul&theme=tokyo-night&hide_border=true&radius=8" width="100%" alt="Contribution Graph">
-</div>
 
-<br/>
 
 
 <div align="center">
