@@ -69,6 +69,18 @@
         </tr>
         <tr>
             <td>
+            </td>
+            <td>
+                <a href="https://github.com/gosnmp/gosnmp">
+                    <b>GoSNMP</b>
+                </a>
+            </td>
+            <td>UDP bağlantısı sırasında ICMP ping doğrulaması</td>
+            <td><a href="https://github.com/gosnmp/gosnmp/pull/528">PR #528</a></td>
+            <td>⏳ In Progress</td>
+        </tr>
+        <tr>
+            <td>
                 <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="30px" alt="Fiber Logo"/>
             </td>
             <td>
