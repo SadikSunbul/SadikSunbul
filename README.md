@@ -75,7 +75,7 @@
                     <b>GoSNMP</b>
                 </a>
             </td>
-            <td>UDP bağlantısı sırasında ICMP ping doğrulaması</td>
+            <td>UDP connection during ICMP ping verification</td>
             <td><a href="https://github.com/gosnmp/gosnmp/pull/528">PR #528</a></td>
             <td>⏳ In Progress</td>
         </tr>
