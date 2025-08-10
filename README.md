@@ -69,6 +69,7 @@
         </tr>
         <tr>
             <td>
+                <img src="https://static.stocktitan.net/company-logo/snmp-lg.webp" width="30px" alt="snmp logo">
             </td>
             <td>
                 <a href="https://github.com/gosnmp/gosnmp">
