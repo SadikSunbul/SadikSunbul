@@ -69,19 +69,6 @@
         </tr>
         <tr>
             <td>
-                <img src="https://static.stocktitan.net/company-logo/snmp-lg.webp" width="30px" alt="snmp logo">
-            </td>
-            <td>
-                <a href="https://github.com/gosnmp/gosnmp">
-                    <b>GoSNMP</b>
-                </a>
-            </td>
-            <td>UDP connection during ICMP ping verification</td>
-            <td><a href="https://github.com/gosnmp/gosnmp/pull/528">PR #528</a></td>
-            <td>⏳ In Progress</td>
-        </tr>
-        <tr>
-            <td>
                 <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="30px" alt="Fiber Logo"/>
             </td>
             <td>
