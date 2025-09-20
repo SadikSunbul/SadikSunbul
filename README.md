@@ -24,7 +24,9 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+    <h2>🛠️ Tech Stack</h2>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,7 +40,9 @@
 
 <br/>
 
-## 🤝 Open Source Contributions
+<div align="center">
+    <h2>🤝 Open Source Contributions</h2>
+</div>
 
 <table align="center">
 <tr>
