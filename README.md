@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,dotnet,solidity,git,github,docker,kubernetes,mongodb,mysql,postgresql,redis,rabbitmq,elasticsearch,gcp,githubactions&perline=5" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=go,dotnet,solidity,docker,kubernetes,mongodb,postgresql,redis,rabbitmq,elasticsearch&perline=5" alt="Tech Stack" />
   </a>
 </p>
 
