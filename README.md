@@ -46,48 +46,57 @@
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
-    <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="40px" alt="Fiber Logo"/>
+<td align="center" width="25%" style="padding:12px">
+    <a href="https://github.com/gofiber/fiber/pull/4060">
+        <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="48" height="48" alt="Fiber"/>
+    </a>
+    <br/><br/>
+    <strong>🔄 Go Fiber</strong>
     <br/>
+    <sub>Retry Addon Bug Fix</sub>
+    <br/><br/>
+    <a href="https://github.com/gofiber/fiber/pull/4060"><img src="https://img.shields.io/badge/PR-4060-00ADD8?style=flat-square&logo=github" alt="PR"/></a>
+    <img src="https://img.shields.io/badge/Merged-8E44AD?style=flat&logo=git&logoColor=white&color=8E44AD" alt="Merged"/>
+</td>
+<td align="center" width="25%" style="padding:12px">
+    <a href="https://github.com/gofiber/storage/pull/1565">
+        <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="48" height="48" alt="Fiber"/>
+    </a>
+    <br/><br/>
     <strong>🚀 Go Fiber Storage</strong>
     <br/>
-     <small>LevelDB Support</small>
-    <br/>
-    <a href="https://github.com/gofiber/storage/pull/1565">
-        <img src="https://img.shields.io/badge/PR-1565-blue?style=flat-square&logo=github" alt="PR #1565"/>
-    </a>
-    <br/>
-    <img src="https://img.shields.io/badge/Merged-green?style=flat-square" alt="Merged"/>
+    <sub>LevelDB Support</sub>
+    <br/><br/>
+    <a href="https://github.com/gofiber/storage/pull/1565"><img src="https://img.shields.io/badge/PR-1565-00ADD8?style=flat-square&logo=github" alt="PR"/></a>
+    <img src="https://img.shields.io/badge/Merged-8E44AD?style=flat&logo=git&logoColor=white&color=8E44AD" alt="Merged"/>
 </td>
-<td align="center" width="33%">
-    <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="40px" alt="Fiber Logo"/>
-    <br/>
+<td align="center" width="25%" style="padding:12px">
+    <a href="https://github.com/gofiber/recipes/pull/2797">
+        <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="48" height="48" alt="Fiber"/>
+    </a>
+    <br/><br/>
     <strong>📧 Go Fiber Recipes</strong>
     <br/>
-     <small>Email Verification</small>
-    <br/>
-    <a href="https://github.com/gofiber/recipes/pull/2797">
-        <img src="https://img.shields.io/badge/PR-2797-blue?style=flat-square&logo=github" alt="PR #2797"/>
-    </a>
-    <br/>
-    <img src="https://img.shields.io/badge/Merged-green?style=flat-square" alt="Merged"/>
+    <sub>Email Verification</sub>
+    <br/><br/>
+    <a href="https://github.com/gofiber/recipes/pull/2797"><img src="https://img.shields.io/badge/PR-2797-00ADD8?style=flat-square&logo=github" alt="PR"/></a>
+    <img src="https://img.shields.io/badge/Merged-8E44AD?style=flat&logo=git&logoColor=white&color=8E44AD" alt="Merged"/>
 </td>
-<td align="center" width="33%">
-    <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="40px" alt="Fiber Logo"/>
-    <br/>
+<td align="center" width="25%" style="padding:12px">
+    <a href="https://github.com/gofiber/storage/pull/1564">
+        <img src="https://github.com/gofiber/docs/raw/master/static/img/logo.svg" width="48" height="48" alt="Fiber"/>
+    </a>
+    <br/><br/>
     <strong>🐉 Go Fiber Storage</strong>
     <br/>
-     <small>DragonflyDB Documentation</small>
-    <br/>
-    <a href="https://github.com/gofiber/storage/pull/1564">
-        <img src="https://img.shields.io/badge/PR-1564-blue?style=flat-square&logo=github" alt="PR #1564"/>
-    </a>
-    <br/>
-    <img src="https://img.shields.io/badge/Merged-green?style=flat-square" alt="Merged"/>
+    <sub>DragonflyDB Documentation</sub>
+    <br/><br/>
+    <a href="https://github.com/gofiber/storage/pull/1564"><img src="https://img.shields.io/badge/PR-1564-00ADD8?style=flat-square&logo=github" alt="PR"/></a>
+    <img src="https://img.shields.io/badge/Merged-8E44AD?style=flat&logo=git&logoColor=white&color=8E44AD" alt="Merged"/>
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
     <i>For more, check out the <a href="https://github.com/SadikSunbul?tab=repositories&q=&type=fork">repositories I've forked</a>!</i>
-</div>
+</p>
